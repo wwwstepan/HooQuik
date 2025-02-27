@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HooQuik">
+</Property><Property Name="Solution File" Value="C:\s\c\prj\HooQuik\HooQuik.sln">
+</Property><Property Name="Date" Value="10 апреля 2012 г.">
+</Property><Property Name="Time" Value="13:20">
+</Property></Properties><Event ErrorLevel="0" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Converting project file 'C:\s\c\prj\HooQuik\HooQuik\HooQuik.vcproj'.">
+</Event><Event ErrorLevel="1" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Done converting to new project file 'C:\s\c\prj\HooQuik\HooQuik\HooQuik.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="HooQuik" Source="HooQuik\HooQuik.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HooQuik.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HooQuik.sln" Description="Converted">
+</Event></UpgradeLog>
